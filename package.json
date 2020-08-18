@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lewyuburi/nuxt-validate.git"
+    "url": "git+https://github.com/lat1992/nuxt-validate.git"
   },
   "keywords": [
     "nuxt",
@@ -21,11 +21,11 @@
   "author": "Lewis Yuburi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lewyuburi/nuxt-validate/issues"
+    "url": "https://github.com/lat1992/nuxt-validate/issues"
   },
-  "homepage": "https://github.com/lewyuburi/nuxt-validate#readme",
+  "homepage": "https://github.com/lat1992/nuxt-validate#readme",
   "dependencies": {
-    "vee-validate": "^3.0.8"
+    "vee-validate": "^3.3.9"
   },
   "devDependencies": {
     "@nuxtjs/module-test-utils": "latest",
